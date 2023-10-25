@@ -16,7 +16,7 @@ namespace Bai_Kiem_Tra
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmListView());
+            Application.Run(new frmFileListView());
         }
     }
 }

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOC_WINFORM", "Bai_Kiem_Tra\HOC_WINFORM.csproj", "{AD5531D0-6CE5-40CB-B667-E57D826EFFAE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAI_KIEM_TRA", "Bai_Kiem_Tra\BAI_KIEM_TRA.csproj", "{AD5531D0-6CE5-40CB-B667-E57D826EFFAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -94,5 +94,14 @@ namespace Bai_Kiem_Tra
             frmRadioCheckBox = null;
             this.Show();
         }
+
+        private void fornFileToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+                this.Hide();
+                frmFile frmFile = new frmFile();
+                frmFile.ShowDialog();
+                frmFile = null;
+                this.Show();
+        }
     }
 }

@@ -12,3 +12,5 @@ C:\Users\LHUser\Downloads\Bai_Kiem_Tra\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_K
 C:\Users\LHUser\Downloads\Bai_Kiem_Tra\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.frmRadioCheckBox.resources
 C:\Users\LHUser\Downloads\Bai_Kiem_Tra\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.Properties.Resources.resources
 C:\Users\LHUser\Downloads\Bai_Kiem_Tra\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\HOC_WINFORM.csproj.GenerateResource.Cache
+C:\Users\LHUser\Downloads\Bai_Kiem_Tra\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.frmFile.resources
+C:\Users\LHUser\Downloads\Bai_Kiem_Tra\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.frmFileListView.resources
