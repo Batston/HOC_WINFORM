@@ -1,0 +1,28 @@
+c:\users\vumin\onedrive\tài liệu\visual studio 2013\Projects\Bai_Kiem_Tra\Bai_Kiem_Tra\bin\Debug\Bai_Kiem_Tra.exe.config
+c:\users\vumin\onedrive\tài liệu\visual studio 2013\Projects\Bai_Kiem_Tra\Bai_Kiem_Tra\bin\Debug\Bai_Kiem_Tra.exe
+c:\users\vumin\onedrive\tài liệu\visual studio 2013\Projects\Bai_Kiem_Tra\Bai_Kiem_Tra\bin\Debug\Bai_Kiem_Tra.pdb
+c:\users\vumin\onedrive\tài liệu\visual studio 2013\Projects\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.csprojResolveAssemblyReference.cache
+c:\users\vumin\onedrive\tài liệu\visual studio 2013\Projects\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.Properties.Resources.resources
+c:\users\vumin\onedrive\tài liệu\visual studio 2013\Projects\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.csproj.GenerateResource.Cache
+c:\users\vumin\onedrive\tài liệu\visual studio 2013\Projects\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.exe
+c:\users\vumin\onedrive\tài liệu\visual studio 2013\Projects\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.pdb
+C:\Users\vumin\onedrive\tài liệu\visual studio 2013\Projects\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.frmDangNhap.resources
+C:\Users\vumin\onedrive\tài liệu\visual studio 2013\Projects\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.frmMain.resources
+C:\Users\vumin\onedrive\tài liệu\visual studio 2013\Projects\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.frmMayTinhCoBan.resources
+C:\Users\vumin\onedrive\tài liệu\visual studio 2013\Projects\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.frmListBox.resources
+C:\Users\vumin\onedrive\tài liệu\visual studio 2013\Projects\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.frmListView.resources
+C:\Users\vumin\onedrive\tài liệu\visual studio 2013\Projects\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.frmRadioCheckBox.resources
+C:\Users\LHUser\Downloads\Bai_Kiem_Tra\Bai_Kiem_Tra\Bai_Kiem_Tra\bin\Debug\Bai_Kiem_Tra.exe.config
+C:\Users\LHUser\Downloads\Bai_Kiem_Tra\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.exe
+C:\Users\LHUser\Downloads\Bai_Kiem_Tra\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.pdb
+C:\Users\LHUser\Downloads\Bai_Kiem_Tra\Bai_Kiem_Tra\Bai_Kiem_Tra\bin\Debug\Bai_Kiem_Tra.exe
+C:\Users\LHUser\Downloads\Bai_Kiem_Tra\Bai_Kiem_Tra\Bai_Kiem_Tra\bin\Debug\Bai_Kiem_Tra.pdb
+C:\Users\LHUser\Downloads\Bai_Kiem_Tra\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.csprojResolveAssemblyReference.cache
+C:\Users\LHUser\Downloads\Bai_Kiem_Tra\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.frmDangNhap.resources
+C:\Users\LHUser\Downloads\Bai_Kiem_Tra\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.frmListBox.resources
+C:\Users\LHUser\Downloads\Bai_Kiem_Tra\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.frmListView.resources
+C:\Users\LHUser\Downloads\Bai_Kiem_Tra\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.frmMain.resources
+C:\Users\LHUser\Downloads\Bai_Kiem_Tra\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.frmMayTinhCoBan.resources
+C:\Users\LHUser\Downloads\Bai_Kiem_Tra\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.frmRadioCheckBox.resources
+C:\Users\LHUser\Downloads\Bai_Kiem_Tra\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.Properties.Resources.resources
+C:\Users\LHUser\Downloads\Bai_Kiem_Tra\Bai_Kiem_Tra\Bai_Kiem_Tra\obj\Debug\Bai_Kiem_Tra.csproj.GenerateResource.Cache
